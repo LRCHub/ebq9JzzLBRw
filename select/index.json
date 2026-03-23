@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "グロリア",
   "base_artist": "楽園市街",
-  "createdAt": "2026-03-23T09:14:34.564099Z",
+  "createdAt": "2026-03-23T09:16:14.667480Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "楽園市街",
       "has_synced": false,
       "path": "select/pl_01_グロリア_楽園市街.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "グロリア",
+      "artist": "楽園市街",
+      "has_synced": false,
+      "path": "select/localdb_01_グロリア_楽園市街.txt",
+      "repo_name": "ebq9JzzLBRw"
     }
   ]
 }
