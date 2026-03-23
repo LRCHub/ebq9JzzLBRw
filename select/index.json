@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "グロリア",
+  "base_artist": "楽園市街",
+  "createdAt": "2026-03-23T09:13:43.879023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グロリア",
+      "artist": "Mando Diao",
+      "has_synced": true,
+      "path": "select/01_グロリア_Mando_Diao.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グロリア",
+      "artist": "楽園市街",
+      "has_synced": false,
+      "path": "select/pl_01_グロリア_楽園市街.txt"
+    }
+  ]
+}
